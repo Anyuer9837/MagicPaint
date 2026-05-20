@@ -22,6 +22,6 @@
 
 <img width="685" height="721" alt="00962ee6c813859fa975326b110e86ad" src="https://github.com/user-attachments/assets/c1523e92-f0d9-4eb9-b907-886f03b301a1" />
 
-5. **隐藏四宫格** - 系统进入四宫格模式，将手机背面朝向观众
+5. **四宫格模式** - 系统进入四宫格模式，将手机背面朝向观众
 7. **揭晓答案** - 询问观众他们选择的数字，然后点击对应四宫格位置，翻转手机给观众看答案！
 <img width="524" height="900" alt="b6010a81be01f178110a299b15122f3d" src="https://github.com/user-attachments/assets/d04b6db6-2031-4543-8f1f-a2fd7202e845" />
