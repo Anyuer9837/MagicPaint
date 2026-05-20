@@ -1,7 +1,7 @@
 # MagicPaint
 
-一个神奇的在线画板应用 ✨
-> 示例：https://www.anyuer.club/draw_board/
+一个神奇的心灵魔术，你可以提前猜到用户接下来要说的数字，可以直接用观众手机打开下方网址进行表演 ✨
+> www.anyuer.club/draw_board
 
 ## 基础功能
 
