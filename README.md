@@ -1,6 +1,7 @@
 # MagicPaint
 
 一个神奇的在线画板应用 ✨
+> 示例：https://www.anyuer.club/draw_board/
 
 ## 基础功能
 
@@ -20,7 +21,7 @@
 2. **预言环节** - 告诉观众你已经提前知道答案并写在画板上（但不给观众看）
 3. **假装作画** - 在观众看不到的地方，点击笔刷大小数值区域（例如"4px"）进入隐藏模式
 
-<img width="685" height="721" alt="00962ee6c813859fa975326b110e86ad" src="https://github.com/user-attachments/assets/c1523e92-f0d9-4eb9-b907-886f03b301a1" />
+<img width="534" height="923" alt="0762f5f6-4999-4c22-bc0b-9bceb5ed3756" src="https://github.com/user-attachments/assets/c7a419a1-4663-4279-ad98-81ab2e319b57" />
 
 5. **四宫格模式** - 系统进入四宫格模式，将手机背面朝向观众
 7. **揭晓答案** - 询问观众他们选择的数字，然后点击对应四宫格位置，翻转手机给观众看答案！
