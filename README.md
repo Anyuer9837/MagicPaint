@@ -23,6 +23,6 @@
 
 <img width="534" height="923" alt="0762f5f6-4999-4c22-bc0b-9bceb5ed3756" src="https://github.com/user-attachments/assets/c7a419a1-4663-4279-ad98-81ab2e319b57" />
 
-5. **四宫格模式** - 系统进入四宫格模式，将手机背面朝向观众
-7. **揭晓答案** - 询问观众他们选择的数字，然后点击对应四宫格位置，翻转手机给观众看答案！
+4. **四宫格模式** - 系统进入四宫格模式，将手机背面朝向观众
+5. **揭晓答案** - 询问观众他们选择的数字，然后点击对应四宫格位置，翻转手机给观众看答案！
 <img width="524" height="900" alt="b6010a81be01f178110a299b15122f3d" src="https://github.com/user-attachments/assets/d04b6db6-2031-4543-8f1f-a2fd7202e845" />
